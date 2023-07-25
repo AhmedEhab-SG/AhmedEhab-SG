@@ -2,4 +2,4 @@
 
 I'm a Frontend Engineer i like building things on Web.
 
-<div align="center"><a href="https://ahmedehab-sg.github.io/portfolio/"><img src="https://raw.githubusercontent.com/AhmedEhab-SG/aes-portfolio/master/public/imgs/icon512.png" width="75px" alt="AE-logo"></a></div>
+<div align="center"><a href="https://ahmedehab-sg.github.io/portfolio/"><img src="https://ahmedehab-sg.com/static/media/ae-icon.3ac08f2f94050ea858d4.png" width="75px" alt="AE-logo"></a></div>
