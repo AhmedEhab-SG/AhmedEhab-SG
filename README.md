@@ -1,4 +1,4 @@
-**<p style=font-weight:700;font-size:20px">  Hello, I'm Ahmed Ehab <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"/></p>**
+<p style=font-weight:700;font-size:20px">  Hello, I'm Ahmed Ehab <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"/></p>
 
 <p>I'm a Frontend Engineer i like building things on Web.</p>
 
