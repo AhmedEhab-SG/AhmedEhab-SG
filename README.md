@@ -41,28 +41,30 @@
     <a href="https://aws.amazon.com/"><img src="./assets/svgs/icons/tools/AWS.svg" alt="AWS" style="width: 40px;"/></a>
 </div>
 
-<details>
-    <h3>Github Stats:</h3>
-    <br/>
-    <div align=center>
-        <picture>
-            <img src="https://streak-stats.demolab.com?user=AhmedEhab-SG&theme=transparent&hide_border=true&card_width=490&card_height=190" alt="GitHub streak" />
-        </picture>
-        <picture>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEhab-SG&hide=TeX&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" />
-        </picture>
-    </div>
-</details>
-
-<details>
-    <h3>Trophies:</h3>
-    <br/>
-    <div align=center>
-        <picture>
-            <img src="https://github-profile-trophy.vercel.app/?username=AhmedEhab-SG&no-bg=true&no-frame=true&theme=algolia&row=1" alt="Trophy" />
-        </picture>
-    </div>
-</details>
+<div>
+    <h3>Github Info:</h3>
+    <details>
+        <summary><b>Stats:</b></summary>a
+        <br/>
+        <div align=center>
+            <picture>
+                <img src="https://streak-stats.demolab.com?user=AhmedEhab-SG&theme=transparent&hide_border=true&card_width=490&card_height=190" alt="GitHub streak" />
+            </picture>
+            <picture>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedEhab-SG&hide=TeX&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" />
+            </picture>
+        </div>
+    </details>
+    <details>
+        <summary><b>Trophies:</b></summary>
+        <br/>
+        <div align=center>
+            <picture>
+                <img src="https://github-profile-trophy.vercel.app/?username=AhmedEhab-SG&no-bg=true&no-frame=true&theme=algolia&row=1" alt="Trophy" />
+            </picture>
+        </div>
+    </details>
+</div>
 
 <div align=center>
     <h4>Feel free to contact me</h4>
