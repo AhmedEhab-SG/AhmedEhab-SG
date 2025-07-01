@@ -44,7 +44,7 @@
 <br/>
 
 <details>
- <summary><b>Github Stats:</b></summary>
+ <summary><b><h3>Github Stats:</h3></b></summary>
     <br/>
     <div align=center>
         <picture>
