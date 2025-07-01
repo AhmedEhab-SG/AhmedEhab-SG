@@ -41,10 +41,8 @@
     <a href="https://aws.amazon.com/"><img src="./assets/svgs/icons/tools/AWS.svg" alt="AWS" style="width: 40px;"/></a>
 </div>
 
-<br/>
-
 <details>
- <summary><b><h3>Github Stats:</h3></b></summary>
+ <h3>Github Stats:</h3>
     <br/>
     <div align=center>
         <picture>
@@ -56,10 +54,8 @@
     </div>
 </details>
 
-<br/>
-
 <details>
- <summary><b>Trophies:</b></summary>
+ <h3>Trophies:</h3>
     <br/>
     <div align=center>
         <picture>
