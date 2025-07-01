@@ -42,7 +42,7 @@
 </div>
 
 <details>
- <h3>Github Stats:</h3>
+    <h3>Github Stats:</h3>
     <br/>
     <div align=center>
         <picture>
@@ -55,7 +55,7 @@
 </details>
 
 <details>
- <h3>Trophies:</h3>
+    <h3>Trophies:</h3>
     <br/>
     <div align=center>
         <picture>
