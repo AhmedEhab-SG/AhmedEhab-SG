@@ -18,8 +18,8 @@
     <h3>Languages:</h3>
     <a href="https://www.rust-lang.org/"><img src="./assets/svgs/icons/languages/Rust.svg" alt="Rust" style="width: 40px;"/></a>
     <a href="https://www.typescriptlang.org/"><img src="./assets/svgs/icons/languages/TypeScript.svg" alt="TypeScript" style="width: 40px;"/></a>
-    <a href="https://www.javascript.com/"><img src="./assets/svgs/icons/languages/JavaScript.svg" alt="JavaScript" style="width: 40px;"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./assets/svgs/icons/languages/Bash.svg" alt="BashScript" style="width: 40px;"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./assets/svgs/icons/languages/JavaScript.svg" alt="JavaScript" style="width: 40px;"/></a>
+    <a href="https://www.gnu.org/software/bash/"><img src="./assets/svgs/icons/languages/Bash.svg" alt="Bash" style="width: 40px;"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./assets/svgs/icons/languages/HTML.svg" alt="HTMLScript" style="width: 40px;"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./assets/svgs/icons/languages/CSS.svg" alt="CSS" style="width: 40px;"/></a>
     <a href="https://sass-lang.com/"><img src="./assets/svgs/icons/languages/Sass.svg" alt="Sass" style="width: 40px;"/></a>
