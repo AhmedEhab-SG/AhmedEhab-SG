@@ -42,7 +42,7 @@
 </div>
 
 <div>
-    <h3>Github States:</h3>
+    <h3>Github State:</h3>
     <details>
         <summary><b>Statistics:</b></summary>
         <br/>
