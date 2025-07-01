@@ -43,7 +43,7 @@
 
 <div>
     <h3>Github State:</h3>
-    <details open>
+    <details>
         <summary><b>Statistics:</b></summary>
         <br/>
         <div align=center>
@@ -55,7 +55,7 @@
             </picture>
         </div>
     </details>
-    <details open>
+    <details>
         <summary><b>Trophies:</b></summary>
         <br/>
         <div align=center>
