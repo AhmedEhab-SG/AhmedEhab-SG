@@ -42,9 +42,9 @@
 </div>
 
 <div>
-    <h3>Github Info:</h3>
+    <h3>Github Stats:</h3>
     <details>
-        <summary><b>Stats:</b></summary>a
+        <summary><b>Statistics:</b></summary>
         <br/>
         <div align=center>
             <picture>
