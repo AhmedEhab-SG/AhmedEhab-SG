@@ -70,8 +70,8 @@
     <h4>Feel free to contact me</h4>
     <a href="https://www.linkedin.com/in/ahmedehab-sg/"><img src="./assets/svgs/icons/socials/linkedIn.svg" alt="LinkedIn"/></a>
     <a href="https://www.instagram.com/ahmedehab.sg/"><img src="./assets/svgs/icons/socials/instagram.svg" alt="Instagram"/></a>
-    <a href="https://www.instagram.com/ahmedehab.sg/"><img src="./assets/svgs/icons/socials/facebook.svg" alt="facebook"/></a>
-    <a href="https://www.instagram.com/ahmedehab.sg/"><img src="./assets/svgs/icons/socials/x.svg" alt="X" style="height:29px"/></a>
+    <a href="https://www.facebook.com/ahmedehab.sg"><img src="./assets/svgs/icons/socials/facebook.svg" alt="facebook"/></a>
+    <a href="https://x.com/AhmedEhabSG"><img src="./assets/svgs/icons/socials/x.svg" alt="X" style="height:29px"/></a>
     <div>
         <a href="https://ahmedehab-sg.com/"><img src="assets/svgs/icons/socials/portfolio.svg" alt="AhmedEhab-SG.com" style="width: 140px;";/></a>
     </div>
