@@ -60,7 +60,7 @@
         <br/>
         <div align=center>
             <picture>
-                <img src="https://github-profile-trophy.vercel.app/?username=AhmedEhab-SG&no-bg=true&no-frame=true&theme=algolia&row=1&rank=-?" alt="Trophy" />
+                <img src="https://github-profile-trophy.vercel.app/?username=AhmedEhab-SG&rank=-?&no-bg=true&no-frame=true&theme=algolia&row=1" alt="Trophy" />
             </picture>
         </div>
     </details>
